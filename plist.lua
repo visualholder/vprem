@@ -1,7 +1,8 @@
 return {
     Premium = {},
-    PremiumBypass = {7270560546, 9387422618},
-    SpecialPerson = {}, 
+    PremiumBypass = {7270560546},
+    SpecialPerson = {9387422618}, 
 }
+
 
 
